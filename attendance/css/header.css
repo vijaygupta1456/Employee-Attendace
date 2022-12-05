@@ -1,0 +1,87 @@
+/*-----------------Header-Part------------------------*/
+
+#header{
+	background: #fff;
+    height: 65px;
+    overflow: hiddent;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+
+#header .logo img {
+    height: 30px;
+}
+
+#header .logo a {
+    color: #1e5f8d;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 24px;
+    letter-spacing: -.8px;
+    font-weight: 500;
+    margin-left: 7px;
+}
+
+.sign{
+	margin-left: 1200px;
+}
+
+#header .sign a{
+	text-decoration: none;
+}
+
+#header .logo strong span {
+    color: #00a6eb;
+}
+
+#header .logo strong{
+	margin-left: 5px;
+}
+
+/*-----------------Footer-Part----------------------------*/
+
+footer{
+	background-color: #fff;
+}
+
+footer a{
+	text-decoration: none;
+}
+
+/*-----------------Footer-Part----------------------------*/
+
+
+/*----------------Home-Page----------------*/
+
+.sign a{
+	text-decoration: none;
+}
+
+#des{
+	margin-top: 30vh;
+}
+#des2{
+	margin-top: 10vh;
+}
+
+/*----------------Home-Page----------------*/
+
+
+
+/*---------------Registration-Page--------------------------*/
+
+
+
+
+/*---------------Registration-Page--------------------------*/
+
+
+
+/*--------------------Login-Page------------------------------*/
+
+#log a{
+	text-decoration: none;
+}
